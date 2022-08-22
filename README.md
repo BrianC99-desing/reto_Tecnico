@@ -6,4 +6,4 @@ Repositorio de proceso de UiPath de reto tecnico y video de explicación
 
 Este es una grabacion de la ejecucion del robot del reto tecnico.
 
-![](https://youtu.be/R0UVcidGlTog)
+Link: https://youtu.be/R0UVcidGlTo
